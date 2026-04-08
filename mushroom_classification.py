@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 # ─────────────────────────────────────────────
 df = pd.read_csv('data/mushrooms.csv')
 
-# Fix column names (important)
+# Fix column names
 df.columns = df.columns.str.replace('-', '_')
 
 print("Dataset shape:", df.shape)
