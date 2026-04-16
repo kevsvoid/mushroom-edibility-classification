@@ -42,3 +42,8 @@ The analysis is driven by a Python script (`mushroom_classification.py`) that pe
    python mushroom_classification.py
 3. **View outputs:**
    All generated figures will be saved in the `outputs/` folder.
+
+---
+
+### References
+**UCI Machine Learning Repository. 1987. Mushroom Dataset.** University of California, Irvine.
